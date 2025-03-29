@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>Recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>56DCF3</corbanda>
+        <cornavega>56F3C0</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>EL ARTE DE LA GEOMETRIA</titulo>
+        <subtitulo>Actividades</subtitulo>
+        <autor>DayanaLopez</autor>
+        <logo>logo_2.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-10">introducci_on_22222.png</imaxe>
+              <texto posx="2" posy="399" ancho="200" largo="200"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="24">Autoria de Dayana Lopez</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>12</tipo>
+              <cabeceira>Da clik en cada imagen y lee con mucha atención</cabeceira>
+              <pe>“El cerebro tiene su propia geometría mental para gestionar la razón&quot;Rodriguez.J</pe>
+              <modo>1</modo>
+              <galeria grande="Diapositiva2.JPG" son="" texto="CUERPOS GEOMÉTRICOS">definicion_1.png</galeria>
+              <galeria grande="Captura_de_pantalla_2025-03-19_153202.png" son="" texto="POLIEDROS O REDONDOS">cuerpos_redondos_o_poliedors.png</galeria>
+              <galeria grande="prismas_y_piramides.png" son="" texto="PRIMAS  Y PIRÁMIDES">calsificacion_de_P_Y_PIRA.png</galeria>
+              <galeria grande="dato_curioso.png" son="" texto="SOLIDOS PLATÓNICOS">solidos_platonicos_intro.png</galeria>
+              <galeria grande="aspectos_importantes.png" son="" texto="DIMENSIÓN">aspectos_3333.png</galeria>
+              <galeria grande="Captura_de_pantalla_2025-03-19_160658.png" son="" texto="REFLEXIÓN">reflexiona.png</galeria>
+        </paxina>
+        <paxina id="3" >
+              <tipo>5</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>¿Que tipo de cuerpo geométricos son? ¿ Son cuerpos redondos o poliedros?</cabeceira>
+              <pe>“La geometría se ocupa de la relación lógica que guardan sus conceptos entre sí.</pe>
+              <imaxe>istockphoto-971578384-612x612.jpg</imaxe>
+              <imfondo  posx="43" posy="6">Captura_de_pantalla_2025-03-19_161816.png</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>Poliedros</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="4" >
+              <tipo>7</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>Arrastra y clasifica los siguientes sólidos geométricos.</cabeceira>
+              <pe>“Donde hay materia hay geometría.” Johannes Kepler</pe>
+              <fondocaixa1 trans="100">poledrosss.png</fondocaixa1>
+              <fondocaixa2 trans="100">redondos.png</fondocaixa2>
+              <caixa1>Poliedros</caixa1>
+              <caixa2>Cuerpos redondos</caixa2>
+              <mini caixa="1">ciliro.png</mini>
+              <mini caixa="1">cubo.png</mini>
+              <mini caixa="2">cilindro.jpg</mini>
+              <mini caixa="2">esfera.jpg</mini>
+              <mini caixa="2">cono.png</mini>
+              <mini caixa="1">piramide.png</mini>
+              <cfondo>FFF2FF</cfondo>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="5" >
+              <tipo>9</tipo>
+              <cabeceira>Da clik en los siguientes botones:</cabeceira>
+              <imaxe>Captura_de_pantalla_2025-03-19_163806.png</imaxe>
+              <forma>purple-button-7286024_1280.png</forma>
+              <liga posx="370" posy="118" ir="https://www.geogebra.org/m/tWnFhpum">Actividad 1</liga>
+              <liga posx="365" posy="166" ir="https://www.liveworksheets.com/es/w/es/matematicas/821593#google_vignette">Actividad 2</liga>
+              <liga posx="364" posy="217" ir="https://es.educaplay.com/recursos-educativos/7108468-cuerpos_geometricos.html#modalShare">Actividad 3</liga>
+        </paxina>
+        <paxina id="6" >
+              <tipo>1</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>Responde la siguiente pregunta:</cabeceira>
+              <imaxe>og-reflexionar-antes-crear-videojuego.png</imaxe>
+              <texto>¿Consideras que los poliedros se usan en el diseño de empaques ecológicos 
+debido a su capacidad para optimizar el uso del material y reducir el desperdicio?</texto>
+              <resp texto="" valor="1">SI</resp>
+              <resp texto="" valor="0">No</resp>
+        </paxina>
+        <paxina id="7" >
+              <tipo>18</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>Completa el siguiente texto de acuerdo a lo aprendido:</cabeceira>
+              <pe>“Razonar en geometría es razonar con figuras mal hechas.” David Hilbert</pe>
+              <modo>3</modo>
+              <completa ant="Un solido geométrico es una figura " post="que ocupa un lugar en el espacio, y tiene 3 dimensiones (alto, ancho y largo)">tridimensional</completa>
+              <completa ant="se dividen en poliedros y " post="donde los cuerpos redondos son aquellos solidos con caras curvas.Los cuerpos redondos más conocidos son: El cilindro, El cono, La esfera. ">cuerpos redondos</completa>
+              <completa ant="Los poliedros son solidos con" post="Es decir, son cuerpos geométricos cuyas caras son polígonos, además pueden ser regulares o irregulares.">caras planas</completa>
+              <completa ant="Cada cuerpo geométrico tiene elementos como;" post=",vértices y caras. Es importante, entender que cuando">aristas</completa>
+              <completa ant="hablamos de 3 o 2 puntos no situados en línea recta ,hacemos referencia a un " post=",pero si es una línea que tiene una sola dimensión">plano</completa>
+              <completa ant="estamos hablando de una recta. Del mismo modo, hay que tener presente que una" post="no es más que, el número mínimo de coordenadas necesarias para especificar un punto de dicho objeto o figura.">dimensión</completa>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-128">representacion_infromacion_333.png</imaxe>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="6">desarollo_de_planos.png</imaxe>
+              <texto posx="50" posy="50" ancho="200" largo="200"><![CDATA[<font size="12"><iframe width="250" height="200" src="https://www.youtube.com/embed/rw-PF4StcW8?si=IAKvMzHb4l9KYGuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></font>]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="10" >
+              <tipo>39</tipo>
+            <nonpasar>1</nonpasar>
+              <cabeceira>Encuentra el desarrollo del plano con los que se puede armar los siguientes solidos:</cabeceira>
+              <pe>&quot;La poesía es una ciencia tan exacta como la geometría&quot; Émile Faguet</pe>
+              <modo>1</modo>
+            <parellas imaxe="relacion_1.png" texto="pirámide">relacion1_11.png</parellas>
+              <parellas imaxe="relacionar4_4.jpg" texto="pirámides truncadas ">relacionar_4.jpg</parellas>
+              <parellas imaxe="relacionar6.png" texto="cilindros">relacionar_6_6.png</parellas>
+              <parellas imaxe="relacion_2_2.png" texto="pirámides truncadas ">relacion_2.png</parellas>
+              <parellas imaxe="relacionar_5.jpg" texto="Dodecaedro ">relacioanr_5_5.jpg</parellas>
+              <parellas imaxe="relacioanr7_7.jpg" texto="tetraedro regular">relacionar7.png</parellas>
+              <cfondo>808080</cfondo>
+              <ctapa>FF80C0</ctapa>
+              <tempo>90</tempo>
+        </paxina>
+        <paxina id="11" >
+              <tipo>3</tipo>
+            <nonpasar>1</nonpasar>
+              <imaxe>rompecabecas.png</imaxe>
+              <filas>5</filas>
+              <columnas>5</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>
